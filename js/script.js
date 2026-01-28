@@ -1,0 +1,1 @@
+console.log("Starter project was running sucessfully.");
